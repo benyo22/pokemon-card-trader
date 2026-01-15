@@ -1,0 +1,110 @@
+{
+    "65988d0d7c371": {
+        "username": "admin",
+        "password": "$2y$10$JM7O0l8Vmy5QrCKIAsX3xeREoSnZUp4Aq3oqVDtswB1xgBzd4Btmy",
+        "email": "admin@gmail.com",
+        "money": 0,
+        "roles": [
+            "user, ",
+            "admin"
+        ],
+        "cards": [
+            "card15",
+            "card16",
+            "card17",
+            "card21",
+            "card22",
+            "card8",
+            "card14",
+            "card13",
+            "card20",
+            "card3",
+            "card25",
+            "card5",
+            "card11",
+            "card6",
+            "card10",
+            "card9"
+        ],
+        "id": "65988d0d7c371"
+    },
+    "659e7f49f3582": {
+        "username": "kisskami4",
+        "password": "$2y$10$kk5sKCzV0d\/7Yo3kIXE97uf90IUg8BQyCF7ZC9LAEFn9ZdGC2gjLq",
+        "email": "kami@gmail.com",
+        "money": 7000,
+        "roles": [
+            "user"
+        ],
+        "cards": [
+            "card18",
+            "card24",
+            "card19",
+            "card2",
+            "card0",
+            "card4",
+            "card7"
+        ],
+        "limit": 12,
+        "slotprice": 100,
+        "id": "659e7f49f3582"
+    },
+    "659e7f56b4e86": {
+        "username": "benyo",
+        "password": "$2y$10$TeGIn0ioMLSBxQPYESX4Re1cg6GUq55Z20NvQYLUrF6\/0GrhNZpWa",
+        "email": "benyo@gmail.com",
+        "money": 8952,
+        "roles": [
+            "user"
+        ],
+        "cards": [
+            "card1",
+            "card3"
+        ],
+        "limit": 7,
+        "slotprice": 100,
+        "id": "659e7f56b4e86"
+    },
+    "65a2fbba53854": {
+        "username": "evetke",
+        "password": "$2y$10$Zl9Dn85mXiPcpQz\/1v4exuIF1vJaywsC1mzfbiQPRymeR1wf2VUjy",
+        "email": "evetke@gmail.com",
+        "money": 10000,
+        "roles": [
+            "user"
+        ],
+        "cards": [],
+        "limit": 5,
+        "slotprice": 100,
+        "id": "65a2fbba53854"
+    },
+    "65a6cca8bddc5": {
+        "username": "proba1",
+        "password": "$2y$10$x\/KoYkpHoJBs1cIRw4pcHuV5UUYfYyzGOcCGItScGMbqF2tzBLuVy",
+        "email": "proba1@gmail.com",
+        "money": 10027,
+        "roles": [
+            "user"
+        ],
+        "cards": [],
+        "limit": 4,
+        "slotprice": 100,
+        "id": "65a6cca8bddc5"
+    },
+    "6968f8dab7c40": {
+        "username": "benyo22",
+        "password": "$2y$12$bzMHAlhkIbG1\/3Lnj6Zrde9zn7Ze92BcChKQkukSStu.Bkwi.CAle",
+        "email": "benyo22@gmail.com",
+        "money": 9761,
+        "roles": [
+            "user"
+        ],
+        "cards": [
+            "card12",
+            "card23"
+        ],
+        "limit": 2,
+        "slotprice": 100,
+        "id": "6968f8dab7c40"
+    }
+}

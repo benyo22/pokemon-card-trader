@@ -1,0 +1,55 @@
+#hp, 
+#attack, 
+#defense{
+    width: 45px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #303245;
+    color: #eee;
+    height: 20px;
+}
+
+input[type="text"],
+input[type="number"]{
+    border-radius: 5px;
+    border: 0;
+    background-color: #303245;
+    color: #eee;
+    height: 20px;
+}
+
+.submit {
+    background-color: #517d81;
+    border-radius: 0px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    cursor: pointer;
+    font-size: 18px;
+    height: 50px;
+    outline: 0;
+    text-align: center;
+    width: 100%;
+}
+
+.submit:hover {
+    background-color: rgb(53, 109, 113);
+    border: 1px solid white;
+}
+
+.errors{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    font-family: sans-serif;
+}
+
+.pokemon-card .edit {
+    background-color: var(--clr-highlight);
+    border-radius: 0 0 8px 8px;
+    color: var(--clr-white);
+    cursor: default;
+    font-weight: bold;
+    padding: 10px;
+    transition: 0.2s;
+}
