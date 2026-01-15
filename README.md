@@ -2,10 +2,6 @@
 
 # 🎴 Pokémon Card Market
 
-[![PHP](https://img.shields.io/badge/Language-PHP_8.x-purple)](https://www.php.net/)
-[![Storage](https://img.shields.io/badge/Data-JSON_Storage-yellow)](https://www.json.org/)
-[![Course](https://img.shields.io/badge/ELTE-Webprogramozás-darkred)](https://www.elte.hu/)
-
 Ez a projekt az **ELTE IK Webprogramozás** kurzusának szerveroldali beadandó feladata. Az alkalmazás egy online piactér, ahol a felhasználók regisztráció után Pokémon kártyákat adhatnak el és vásárolhatnak meg, adminisztrátori felügyelet mellett.
 
 ---
