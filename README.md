@@ -31,10 +31,14 @@ Ez a projekt az **ELTE IK Webprogramozás** kurzusának szerveroldali beadandó 
   - **`styles/`** – Oldalspecifikus CSS fájlok  
   - **Gyökérkönyvtár** – PHP vezérlők és nézetek
 
+---
+
 ### 🛠️ Technológiák
 * **Backend:** Natív PHP (keretrendszer nélkül).
 * **Adattárolás:** Fájl alapú adattárolás (JSON).
 * **Frontend:** HTML5, CSS3.
+
+---
 
 ### 🚀 Telepítés és Futtatás
 Mivel ez egy PHP projekt, webszerverre van szükség a futtatáshoz.
@@ -78,6 +82,8 @@ Klónozd a repót:
 
 A server-side web programming assignment designed to simulate a Pokémon card trading platform. Users can manage their collections, trade cards, and administrators can manage the global card database.
 
+---
+
 ### ✨ Features
 Based on the file structure provided:
 
@@ -94,15 +100,21 @@ Based on the file structure provided:
     * Edit existing card attributes (`editcard.php`).
     * *Note: Only accessible users with admin privileges.*
 
+---
+
 ### 📂 File Structure Overview
 * **`storage/`**: Handles data persistence using JSON files (`users.json`, `cards.json`) and helper classes for CRUD operations.
 * **`styles/`**: Contains modular CSS files for specific pages (e.g., `details.css`, `register_login.css`).
 * **Root**: Contains the main PHP entry points and logic files.
 
+---
+
 ### 🛠️ Tech Stack
 * **Language:** PHP 8.x
 * **Database:** JSON (File-based storage)
 * **Styling:** Custom CSS
+
+---
 
 ### 🚀 How to Run
 
