@@ -1,6 +1,6 @@
 > 🇬🇧 English version below
 
-# 🎴 Pokémon Card Market
+# 🎴 Pokémon Kártya Cserélő Applikáció
 
 Ez a projekt az **ELTE IK Webprogramozás** kurzusának szerveroldali beadandó feladata. Az alkalmazás egy online piactér, ahol a felhasználók regisztráció után Pokémon kártyákat adhatnak el és vásárolhatnak meg, adminisztrátori felügyelet mellett.
 
@@ -78,7 +78,7 @@ Klónozd a repót:
 
 ## English Version
 
-# PokéTrader
+# 🎴 Pokémon Card Trader App
 
 A server-side web programming assignment designed to simulate a Pokémon card trading platform. Users can manage their collections, trade cards, and administrators can manage the global card database.
 
